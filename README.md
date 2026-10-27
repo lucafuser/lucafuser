@@ -18,4 +18,4 @@ I'm a [Magento Open Source](https://github.com/magento/magento2) contributor, an
 ## 📫 Get in touch
 - GitHub: [github.com/lucafuser](https://github.com/lucafuser)  
 - LinkedIn: [linkedin.com/in/luca-alessio-fuser](https://linkedin.com/in/luca-alessio-fuser)  
-- Email: luca.a.fuser@gmail.com / luca.fuser@algoritma.it
+- Email: fuse94@libero.it / luca.fuser@algoritma.it
